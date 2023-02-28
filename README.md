@@ -1,15 +1,16 @@
-# QSpace - QHack Challenges
+# QSpace - QHack Challenges - Quantum Tubes
 
 Welcome to our repo. Here we solved some challenges for the QHack Hackathon.
 Our group is made of 4 people:
 - Kevin Joven
-- Karan
+- Karan Nedungadi
 - Alpha
 - Minmin
 
 # The Challenge:
 
 * For the visualization Challenge go to: **QHack_Visualization_Challenge.ipynb**
-* For the Quantum Computing Today Challenge fo to: **file.ipynb**
+
+Welcome to Quantum Tubes
 
 Thanks to be here and enjoy the code!
