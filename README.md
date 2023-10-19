@@ -5,7 +5,7 @@ Our group is made of 4 people:
 - Kevin Joven
 - Karan Nedungadi
 - Alpha
-- Minmin
+- Minji Kim
 
 # The Challenge:
 
